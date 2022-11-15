@@ -13,3 +13,7 @@ g++-8 or newer
 # Compiling
 
 make -j
+
+# Running
+
+./bin/test-matinv
