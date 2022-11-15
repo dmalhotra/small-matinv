@@ -1,0 +1,3 @@
+[submodule "version2"]
+	path = vector-class-library
+	url = https://github.com/vectorclass/version2.git
